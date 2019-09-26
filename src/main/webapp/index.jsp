@@ -1,6 +1,6 @@
 <h1>DanhSach Khach Hang</h1>
 <br/>
-<table style="width: 100%">
+<table style="width: 50%">
   <tr>
     <th>Id</th>
     <th>Name</th>
@@ -11,30 +11,30 @@
     <td>Mai Van Hoan</td>
     <td>1983-08-20</td>
     <td>Ha Noi</td>
-    <td> <a href="https://picsart.com/i/image-freetoedit-307100303042201" class="pa-embeded-image"><img src="https://cdn141.picsart.com/307100303042201.jpg" data-id="307100303042201" data-size="medium" data-head="1" data-foot="1" alt=" #freetoedit " width="10px" height="10x" >via PicsArt</a> <script  async="async" src="https://picsart.com/embed.js?v1.3.3"></script> </td>
+    <td><img src="https://upanh.vn/images/2019/09/26/downloa1dc92536719ec219d7.jpg" alt="downloa1dc92536719ec219d7.jpg" border="0" height="50px" width="80px"></td>
   </tr>
   <tr>
     <td>Nguyen Van Nam</td>
     <td>1983-08-21</td>
     <td>Bac Giang</td>
-    <td>Anh 2</td>
+    <td><img src="https://upanh.vn/images/2019/09/26/downloa1dc92536719ec219d7.jpg" alt="downloa1dc92536719ec219d7.jpg" border="0" height="50px" width="80px"></td>
   </tr>
   <tr>
     <td>Nguyen Thai Hoa</td>
     <td>1983-08-22</td>
     <td>Nam Dinh</td>
-    <td>Anh 3</td>
+    <td><img src="https://upanh.vn/images/2019/09/26/downloa1dc92536719ec219d7.jpg" alt="downloa1dc92536719ec219d7.jpg" border="0" height="50px" width="80px"></td>
   </tr>
   <tr>
     <td>Tran Dang Khoa</td>
     <td>1983-08-01</td>
     <td>Ha Tay</td>
-    <td>Anh 4</td>
+    <td><img src="https://upanh.vn/images/2019/09/26/downloa1dc92536719ec219d7.jpg" alt="downloa1dc92536719ec219d7.jpg" border="0" height="50px" width="80px"></td>
   </tr>
   <tr>
     <td>Nguyen Dinh Thi</td>
     <td>1983-08-20</td>
     <td>Ha Noi</td>
-    <td>Anh 5</td>
+    <td><img src="https://upanh.vn/images/2019/09/26/downloa1dc92536719ec219d7.jpg" alt="downloa1dc92536719ec219d7.jpg" border="0" height="50px" width="80px"></td>
   </tr>
 </table>
